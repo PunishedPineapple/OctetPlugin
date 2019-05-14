@@ -22,3 +22,6 @@ within 30 seconds of the first.
 ## Problems:
 1. This doesn't account very well for when there's a single dead party member when Octet finishes casting.  You might get a false call in that case.
 2. There's probably a way to determine the party member names through the ACT API without having to have a fixed list, but I don't know how and don't want to spend the time to figure it out on my own.  If anyone knows how to easily do this, please let me know, and I will update the plugin.
+
+## Credit:
+This was inspired by https://github.com/Tarutella/titan-jail-plugin, and used that as a basis for this plugin.

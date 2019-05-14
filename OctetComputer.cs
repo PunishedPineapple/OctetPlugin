@@ -37,7 +37,7 @@ using System.Text.RegularExpressions;
 using System.Linq;
 
 [assembly: AssemblyTitle( "Octet Plugin" )]
-[assembly: AssemblyVersion( "1.0.0.0" )]
+[assembly: AssemblyVersion( "1.0.0.1" )]
 [assembly: AssemblyCopyright( "Copyright (c) 2019 Punished Pineapple" )]
 
 namespace ACT_Plugin

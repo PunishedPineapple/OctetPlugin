@@ -13,7 +13,7 @@ The player name list can be exported and imported if necessary.
 
 ## How it Works:
 Checks for seven total log lines that match the RegEx\
-`1B:[0-9A-F]{8}:[\\w'-]+ [\\w'-]+:[0-9A-F]{4}:[0-9A-F]{4}:00(14|29|77):[0-9A-F]{4}:[0-9A-F]{4}:[0-9A-F]{4}:`
+`1B:[0-9A-F]{8}:[\w'-]+ [\w'-]+:[0-9A-F]{4}:[0-9A-F]{4}:00(14|29|77):[0-9A-F]{4}:[0-9A-F]{4}:[0-9A-F]{4}:`\
 within 30 seconds of the first.
 
 ## Problems:

@@ -4,9 +4,6 @@ This is an ACT plugin that determines who will have the Twintania marker during 
 Download The Plugin DLL:\
 https://github.com/PunishedPineapple/OctetPlugin/releases/latest
 
-## Important:
-This is a work in progress, and has not been verified to work correctly during the actual fight.
-
 ## Steps:
 1. Copy the plugin DLL to the desired location.
 2. Add the plugin to ACT.
